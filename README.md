@@ -19,7 +19,7 @@ Gradient Boosting\
 AdaBoost\
 K-Nearest Neighbors
 
-## Performance Metrics
+## Evaluation Metrics
 
 Precision, Recall, and F1-Score for each class\
 ROC score
